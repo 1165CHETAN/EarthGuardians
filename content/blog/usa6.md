@@ -1,0 +1,30 @@
+---
+external: false
+title: "Kemp's ridley turtle | USA"
+description: "In addition to supporting all basic Markdoc syntax, this template also supports extended markdown syntax to render custom components."
+date: 2022-11-01
+---
+
+![Blogster](/images/usa6.png)
+
+
+>Found mainly along the Gulf of Mexico, some Kemp's ridley turtles swim to the east coast of the United States, including the shore of South Carolina.
+
+Due to the over-harvesting of its eggs, the Kemp's ridley is one of the world's most endangered sea turtle species. It's also the smallest species — adults have a shell length of just two feet. Despite their small stature, these turtles can still weigh up to 100 pounds. 
+
+## Get more detail
+
+{% youtube url="https://www.youtube.com/embed/ORHpUYp7y3M?si=CLRQpMsT1GmotH-3" label="Everything is awesome - Lego movie song" /%}
+
+
+## Here are some ways to save them:
+Habitat Protection: Implement and enforce measures to protect nesting beaches, such as establishing marine protected areas and regulating coastal development to preserve critical nesting habitat.
+
+Reducing Fisheries Bycatch: Implement regulations and technologies to reduce accidental capture (bycatch) of Kemp's ridley turtles in fishing gear, such as using TEDs (Turtle Excluder Devices) in shrimp trawls to prevent turtles from getting caught.
+
+Community Engagement and Education: Conduct outreach programs to raise awareness among local communities about the importance of Kemp's ridley turtle conservation, empowering them to participate in nest monitoring, beach cleanups, and reporting turtle sightings or incidents.
+
+Research and Monitoring: Invest in research initiatives to better understand Kemp's ridley turtle ecology, migration patterns, and threats, and use this information to inform conservation strategies and monitor population trends effectively.
+
+
+
