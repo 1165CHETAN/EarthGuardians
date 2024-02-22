@@ -5,7 +5,7 @@ description: "In addition to supporting all basic Markdoc syntax, this template 
 date: 2022-11-01
 ---
 
-![Blogster](/images/china5.png)
+![google-sdg](/images/china5.png)
 
 
 >Brown Eared Pheasant belongs to eared pheasant genus of the Phasianidae family of Galliformes order. It is considered as a large-size fowl genus, with a body length of about 96 centimeters. The body feathers are mainly dark brown.

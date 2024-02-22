@@ -5,7 +5,7 @@ description: "In addition to supporting all basic Markdoc syntax, this template 
 date: 2022-11-01
 ---
 
-![Blogster](/images/aus1.png)
+![google-sdg](/images/aus1.png)
 
 
 >You will never make sense of a duck billed platypus, the world’s only egg-laying mammal. They have no close living relatives, but seem like a random mishmash of other, more familiar animals. They have the head of a duck, the body of an otter, the tail of a beaver, and sharp, venomous spurs.
@@ -16,8 +16,7 @@ date: 2022-11-01
 
 ## Habitat location
 
-{% youtube url="https://earth.google.com/earth/d/14OodhtMI6tB_DsAOOYrBmtCqJkyWsZQ7?usp=sharing" label="Everything is awesome - Lego movie song" /%}
-
+{% youtube url="https://docs.google.com/forms/d/e/1FAIpQLSctMI-bEBeAt7OkUT6PfsYeG0XIahkj_ugR3i4qTOisPq5eOQ/viewform?embedded=true" label="Everything is awesome - Lego movie song" /%}
 
 ## CodePen
 

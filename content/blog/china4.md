@@ -5,7 +5,7 @@ description: "In addition to supporting all basic Markdoc syntax, this template 
 date: 2022-11-01
 ---
 
-![Blogster](/images/china4.png)
+![google-sdg](/images/china4.png)
 
 
 >The Chinese Alligator, also known as the Yangtze Alligator, was very abundant more than 230 million years ago, particularly on the eastern seaboard. But now, with a population of about 150 in the wild, it is listed as the world's most endangered creatures.

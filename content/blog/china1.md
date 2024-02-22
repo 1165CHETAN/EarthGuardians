@@ -5,7 +5,7 @@ description: "In addition to supporting all basic Markdoc syntax, this template 
 date: 2022-11-01
 ---
 
-![Blogster](/images/china1.png)
+![google-sdg](/images/china1.png)
 
 
 >Pere David's deer, the rare animal, was first found in China more than 2,000 years ago. This wetland species was known for its unique appearance. It had a camel's neck, a donkey's tail, cow-like hooves and stag antlers. Chinese often called this strange creature Sibuxiang Four Unlikes.

@@ -9,14 +9,6 @@ const posts = await readAll({
   directory: "blog",
   frontmatterSchema: blog,
 });
-
-const sortedPosts = posts
-  .filter((p) => p.frontmatter.draft !== true)
-  .sort(
-    (a, b) =>
-      new Date(b.frontmatter.date).valueOf() -
-      new Date(a.frontmatter.date).valueOf()
-  );
 ---
 
 <PageLayout>
@@ -24,7 +16,7 @@ const sortedPosts = posts
   <section slot="main">
     <ul>
       {
-        sortedPosts.map((post) => {
+        posts.map((post) => {
           const formattedDate = new Date(
             post.frontmatter.date
           ).toLocaleDateString("en-us", {
@@ -65,11 +57,7 @@ const sortedPosts = posts
                   </a>
                 )}
               </div>
-              <div class="text-text-muted text-sm italic pt-1">
-                <time datetime={post.frontmatter.date.toISOString()}>
-                  {formattedDate}
-                </time>
-              </div>
+              
             </li>
           );
         })

@@ -5,7 +5,7 @@ description: "In addition to supporting all basic Markdoc syntax, this template 
 date: 2022-11-01
 ---
 
-![Blogster](/images/china2.png)
+![google-sdg](/images/china2.png)
 
 
 >TheTibetan Antelopebelongs to the Bovidae family of Artiodactyla order. Weighing up to 45 to 60 kilograms, it has a sturdy body, with a wide and long head and stout mouth. Its nasal part is wide and slightly ridged. It has a short tail but has strong and well-proportioned limbs.

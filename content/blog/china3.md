@@ -5,7 +5,7 @@ description: "In addition to supporting all basic Markdoc syntax, this template 
 date: 2022-11-01
 ---
 
-![Blogster](/images/china3.png)
+![google-sdg](/images/china3.png)
 
 
 >The scientific name of Black-Necked Crane is Grus Nigricollis (Latin), and belongs to the Gruidae family of Gruiformes order. Black-necked Crane is a large-size wading bird, with a full body-length of around 120 centimeters. The color of its body ranges from silver gray to approximately white, with dotted brown brims.
